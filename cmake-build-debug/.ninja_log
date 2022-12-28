@@ -1,0 +1,10 @@
+# ninja log v5
+1	873	1672257419490070697	CMakeFiles/3dRendering.dir/Board.cpp.o	214b55f38e2db4ec
+0	21	1672257539618099707	build.ninja	4db9bf6ab5d9bf69
+1	801	1672257419422070689	CMakeFiles/3dRendering.dir/RenderWindow.cpp.o	4cf73b97a0942718
+884	980	1672257419598070710	3dRendering	57d4101ab701e5e0
+1	884	1672257419502070699	CMakeFiles/3dRendering.dir/main.cpp.o	d66b89da8292654b
+1	835	1672257550302103642	CMakeFiles/3dRendering.dir/RenderWindow.cpp.o	f3cf53b5de78e26f
+1	869	1672257550334103654	CMakeFiles/3dRendering.dir/main.cpp.o	7680a0f78b1421cf
+1	932	1672257550398103678	CMakeFiles/3dRendering.dir/Board.cpp.o	508185e6fc2aed8
+932	1036	1672257550502103717	3dRendering	57d4101ab701e5e0
